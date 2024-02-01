@@ -5,4 +5,4 @@ src-git telephony https://github.com/huanghitoy/telephony.git;master
 #src-git helloworld https://github.com/fw876/helloworld.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
-src-git danshui https://github.com/281677160/openwrt-package.git;Lede
+#src-git danshui https://github.com/281677160/openwrt-package.git;Lede
